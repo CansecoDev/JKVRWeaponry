@@ -1,6 +1,6 @@
 ## Copyright
 
-Most parts of the geometry data comes from the original JK games. As a result, these meshes has been derived and translated from geometry copyrighted by LucasArts.
+Most parts of the geometry data comes from the original JK games. As a result, these meshes have been derived and translated from geometry copyrighted by LucasArts.
 
 I consider modding geometry to be "Fair Use" - a means of supporting the games on other platforms and to improve support on existing platforms without claiming ownership of the assets themselves or their IPs. You are still required to own a copy of the original games in order to play them using this mod in any VR port of the games.
 
